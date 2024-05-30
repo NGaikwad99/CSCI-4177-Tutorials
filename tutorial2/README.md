@@ -1,8 +1,8 @@
 # Tutorial 2
 * *Date Created:* 30 May 2024
 * *Last Modification Date:* 30 May 2024
-* *Tutorial 2 URL:* 
-* *Tutorial 2 App URL:*
+* *Tutorial 2 URL:* https://git.cs.dal.ca/ngaikwad/csci-4177-tutorials/-/tree/main/tutorial2?ref_type=heads
+* *Tutorial 2 App URL:* https://nupur-csci4177-tutorial2.netlify.app/
 * *Group Repo URL:* https://git.cs.dal.ca/ngaikwad/csci-4177-grp-16.git
 * *Assignments Repo URL:* https://git.cs.dal.ca/ngaikwad/csci-4177-assignments.git
 * *Group Project Branch URL:* https://git.cs.dal.ca/ngaikwad/csci-4177-grp-16/-/tree/Nupur?ref_type=heads
