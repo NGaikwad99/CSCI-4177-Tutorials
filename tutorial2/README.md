@@ -9,7 +9,7 @@
 * *Tutorials Repo URL:* https://git.cs.dal.ca/ngaikwad/csci-4177-tutorials.git
 
 ## Authors
-* Nupur Gaikwad (np656134@dal.ca@dal.ca)
+* Nupur Gaikwad (np656134@dal.ca)
 
 ## Deployment
 I created a new private repository on GitHub for Tutorial 2 and pushed the source code for my application to that repository. Then, I imported that project on netlify and configured build settings for deployment. The link was then added to the README file for submission.
