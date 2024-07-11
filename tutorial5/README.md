@@ -1,7 +1,7 @@
 # Tutorial 5
 * *Date Created:* 10 July 2024
 * *Last Modification Date:* 11 July 2024
-* *Tutorial 5 URL:* 
+* *Tutorial 5 URL:* https://git.cs.dal.ca/ngaikwad/csci-4177-tutorials/-/tree/main/tutorial5?ref_type=heads
 * *Tutorials Repo URL:* https://git.cs.dal.ca/ngaikwad/csci-4177-tutorials.git
 
 ## Authors
